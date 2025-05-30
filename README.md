@@ -3,4 +3,4 @@
 
 [Click here to view the app on Streamlit](https://credit-card-approval-predictor-2025.streamlit.app/)
 
-![Credit Approval Predictor](Screenshot 2025-05-30 204659.jpg)
+![Credit Approval Predictor](https://github.com/rashmika-fdo/Credit-Card-Approval-Predictor/blob/6f9c0f2e50d3c43442956fba1674d659b6014537/Screenshot%202025-05-30%20204659.jpg)
