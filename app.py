@@ -3,6 +3,18 @@ import pandas as pd
 from joblib import load
 import numpy as np
 
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: lightblue ;
+        color: black;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 
 st.title('Credit Card Approval Predictor')
 st.write('Please enter the below details')
